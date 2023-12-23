@@ -1,4 +1,4 @@
-ARG NGINX_IMAGE=nginx:alpine
+ARG NGINX_IMAGE=nginx:1.25.3-alpine3.18
 FROM ${NGINX_IMAGE} as webapp
 
 EXPOSE 80
