@@ -18,7 +18,7 @@ GitPython==3.1.29
 hypothesis==6.54.6
 hypothesis-jsonschema==0.20.1
 icdiff==1.9.1
-idna==3.4
+idna==3.7
 inflection==0.5.1
 iniconfig==1.1.1
 Jinja2==3.1.2
